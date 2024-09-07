@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=by kibria5
+kernel.string=by selfmusing
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -15,7 +15,7 @@ device.name2=
 device.name3=
 device.name4=
 device.name5=
-supported.versions=13.0-14.0
+supported.versions=13.0-15.0
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
